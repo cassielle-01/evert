@@ -1,0 +1,25 @@
+body {
+  background-color: #0080ff; /* Warna biru cerah */
+  font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
+  color: #8000ff; /* Warna teks utama (ungu gelap) */
+}
+
+.kartu-profil {
+  width: 300px;
+  margin: 50px auto; /* Jarak atas/bawah 50px, auto menengahkan kiri/kanan */
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px; /* Sudut melengkung */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Efek bayangan */
+  text-align: center; /* Menengahkan semua teks di dalam kartu */
+}
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%; /* Membuat gambar menjadi lingkaran sempurna */
+}
+
+.kartu-profil {
+  /* kode dari slide sebelumnya... */
+  text-align: center; /* Menengahkan semua teks di dalam kartu */
+}
