@@ -1,7 +1,7 @@
-// 1. Pilih tombol beradasarkan ID-nya
-const tombolSapa = document.getElementByle('SapaButton)
+// 1. Pilih tombol berdasarkan ID-nya
+const tombolSapa = document.getElementById('SapaButton');
 // 2. Tambahkan 'event listener' untuk aksi 'click'
-tombolSapa.addEvent:istener('click',function90() {
+tombolSapa.addEventListener('click', function() {
   // 3. Jalankan kode ini ketika tombol di-klik
   alert('Hi! Thank you so much for reaching me out!');
 });
